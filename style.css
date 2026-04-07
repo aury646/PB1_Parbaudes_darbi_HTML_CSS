@@ -96,7 +96,9 @@ h2 {
 #nnshirt1 {
     width: 50%;
     height: 100%;
+    
 }
+
 
 .producttext {
     display: flex;
@@ -115,3 +117,8 @@ footer {
     border-color: #191919;
     margin-top: 20px;
 }
+
+#oldprice {
+    text-decoration: line-through;
+}
+
